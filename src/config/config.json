@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "marshal2020",
+    "database": "stock",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port":5433
+  },
+  "test": {
+    "username": "postgres",
+    "password": "marshal2020",
+    "database": "stock",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "marshal2020",
+    "database": "stock",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
